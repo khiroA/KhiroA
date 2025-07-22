@@ -1,5 +1,5 @@
 # Hi 👋, I'm Khiro  
-## Full-Stack Developer | MERN Stack Enthusiast
+## Full-Stack Developer
 
 ---
 
